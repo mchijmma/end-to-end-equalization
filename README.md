@@ -10,7 +10,7 @@ Audio examples for the [paper](http://dafx2018.web.ua.pt/papers/DAFx2018_paper_2
 ```
 @inproceedings{martinez2018end,
   title={End-to-end equalization with convolutional neural networks},
-  author={Mart\'{i}nez, Marco and Reiss, Joshua D.},
+  author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},
   booktitle={21st International Conference on Digital Audio Effects (DAFx-18)},
   Month = {September}
   year = {2018}
