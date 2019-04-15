@@ -81,14 +81,13 @@
 &nbsp;
 ### Citation
 
-```
-@inproceedings{martinez2018end,
-  title={End-to-end equalization with convolutional neural networks},
-  author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},
-  booktitle={21st International Conference on Digital Audio Effects (DAFx-18)},
-  Month = {September},
-  year = {2018},
-  location = {Aveiro, Portugal}
-}
 
-```
+>@inproceedings{martinez2018end,<br />
+>  title={End-to-end equalization with convolutional neural networks},<br />
+>  author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},<br />
+>  booktitle={21st International Conference on Digital Audio Effects (DAFx-18)},<br />
+>  Month = {September},<br />
+>  year = {2018},<br />
+>  location = {Aveiro, Portugal}<br />
+>}<br />
+
