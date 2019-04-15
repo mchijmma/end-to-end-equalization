@@ -4,7 +4,6 @@
 
 &nbsp;
 ### highpass
-&nbsp;
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
@@ -30,7 +29,6 @@
 
 &nbsp;
 ### peaking
-&nbsp;
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
@@ -56,7 +54,6 @@
 
 &nbsp;
 ### shelving
-&nbsp;
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
@@ -81,8 +78,8 @@
 </div>
 
 
-
-# Citation
+&nbsp;
+### Citation
 
 ```
 @inproceedings{martinez2018end,
