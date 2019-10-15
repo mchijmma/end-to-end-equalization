@@ -82,7 +82,7 @@
 ### Citation
 >@inproceedings{martinez2018end,<br />
 >  title={End-to-end equalization with convolutional neural networks},<br />
->  author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},<br />
+>  author={Mart\'{i}nez Ram\'{i}rez, Marco A and Reiss, Joshua D},<br />
 >  booktitle={21st International Conference on Digital Audio Effects (DAFx-18)},<br />
 >  Month = {September},<br />
 >  year = {2018},<br />
