@@ -2,6 +2,8 @@
 
 [Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “End-to-end equalization with convolutional neural networks” in the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 2018.
 
+[View the source code on GitHub](https://github.com/mchijmma/DL-AFx/tree/master/src) - DNNAFx -> Models.py
+
 &nbsp;
 ### highpass
 <div id="contentBox" style="margin:0px auto; width:150%">
